@@ -1,0 +1,39 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Env / secrets
+.env
+.env.*
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Build outputs (common)
+dist/
+build/
+out/
+
+# C/C++ (common)
+*.o
+*.a
+*.so
+*.exe
+CMakeFiles/
+CMakeCache.txt
