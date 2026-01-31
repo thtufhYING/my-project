@@ -25,15 +25,7 @@ venv/
 # Node
 node_modules/
 
-# Build outputs (common)
+# Build outputs
 dist/
 build/
 out/
-
-# C/C++ (common)
-*.o
-*.a
-*.so
-*.exe
-CMakeFiles/
-CMakeCache.txt
